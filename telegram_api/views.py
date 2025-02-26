@@ -18,8 +18,8 @@ class BookingSerializer(serializers.Serializer):
 API_ID = '29918269'
 API_HASH = '579466851815e58e0d2e82e9a8f7cbbf'
 PHONE = '+380 93 615 54 05'
-# MASTER_NO = os.environ.get("MASTER_NO")
-MASTER_NO = "@pacan_na_million"
+MASTER_NO = os.environ.get("MASTER_NO")
+# MASTER_NO = "@pacan_na_million"
 
 
 def format_tel_no(phone: str) -> str:
