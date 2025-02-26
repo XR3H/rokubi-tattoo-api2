@@ -3,7 +3,7 @@
     "src": "rokubi_tattoo/wsgi.py",
     "use": "@vercel/python",
     "config": {
-      "maxLambdaSize": "15mb", "runime": "python3.9"
+      "maxLambdaSize": "15mb", "runime": "python3.10"
     }
   }],
   "routes": [{
