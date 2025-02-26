@@ -109,7 +109,7 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 CORS_ALLOWED_ORIGINS = [
-    "https://rokubi-tattoo-api2.vercel.app",
+    "https://rokubi-studio.web.app",
 ]
 
 # Internationalization
